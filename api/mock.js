@@ -15,6 +15,15 @@ const normalizedBooks = [
     },
     {
         id: 'mVXoFAfLiPq9yng386-QeYOa',
+        title: 'фыв',
+        author: 'ау',
+        genre: 'Фэнтези',
+        price: 710,
+        category: ['Нехудожественная литература'],
+        annotation: 'qwe'
+    },
+    {
+        id: 'mVXoFAfLiPq9yng386-QeYOa',
         title: 'Книга ночи',
         author: 'Блэк Холли',
         genre: 'Фэнтези',
